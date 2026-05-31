@@ -29,8 +29,8 @@ from telegram.ext import (
 #  CONFIGURATION
 # ═══════════════════════════════════════════════════════════════
 BOT_TOKEN      = "8793722255:AAHDqmFTdsrlik7d1Z50CoMnexgDBX0ig-M"
-OWNER_IDS      = [7064636445]
-ADMIN_IDS      = [7064636445]
+OWNER_IDS      = [7370455179]
+ADMIN_IDS      = [7370455179]
 OTP_GROUP_LINK = "https://t.me/+0YairwHa63NkNWM0"
 BOT_NAME       = "MIK OTP Bot"
 
