@@ -589,7 +589,7 @@ def get_otp_keyboard(number: str, otp: str) -> InlineKeyboardMarkup:
     return InlineKeyboardMarkup([
         [InlineKeyboardButton(f"🔑 {fmt_otp}", copy_text=CopyTextButton(text=clean_otp))],
         [
-            InlineKeyboardButton("📲 Get Number", url="https://t.me/MIKNUMBERBOT"),
+            InlineKeyboardButton("📲 Get Number", url="https://t.me/MIKNUMBOT"),
             InlineKeyboardButton("📣 Channel",   url="https://t.me/+u-mSc5zdIalhMDM0")
         ],
         [InlineKeyboardButton("💬 WhatsApp", url="https://whatsapp.com/channel/0029Vb7aods60eBdwlqJab40")]
